@@ -1,7 +1,7 @@
 #include <cstdio>
 #include <algorithm>
 using namespace std;
-
+//ADD COMMENTS PLS
 int n, m, pnt[3000][2], ans;
 
 int sq(int a)
